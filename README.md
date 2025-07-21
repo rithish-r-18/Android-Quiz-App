@@ -17,7 +17,7 @@ A fully functional Android quiz app with features like:
 - 📤 Share results with friends
 
 ## 📷 Screenshots
-(Add screenshots of the app)
+![Home Screen](1.jpg)
 
 ## 🛠 Tech Stack
 - Java
