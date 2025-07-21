@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:gravity="center"
+    android:padding="24dp"
+    android:background="@drawable/background_gradient">
+
+    <Button android:id="@+id/btnJava" android:text="Java" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <Button android:id="@+id/btnPython" android:text="Python" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" />
+    <Button android:id="@+id/btnSQL" android:text="SQL" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" />
+</LinearLayout>

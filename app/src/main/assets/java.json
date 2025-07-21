@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the size of an int in Java?",
+        "options": ["4 bytes", "2 bytes", "8 bytes", "1 byte"],
+        "answer": "4 bytes"
+    },
+    {
+        "question": "Which keyword is used to inherit a class in Java?",
+        "options": ["implements", "inherits", "extends", "super"],
+        "answer": "extends"
+    },
+    {
+        "question": "Which method is the entry point of a Java program?",
+        "options": ["main()", "start()", "run()", "init()"],
+        "answer": "main()"
+    },
+    {
+        "question": "What is JVM?",
+        "options": ["Java Virtual Method", "Java Variable Machine", "Java Virtual Machine", "Joint Variable Machine"],
+        "answer": "Java Virtual Machine"
+    },
+    {
+        "question": "Which of these is not a primitive type?",
+        "options": ["int", "boolean", "float", "String"],
+        "answer": "String"
+    },
+    {
+        "question": "Which operator is used for comparison?",
+        "options": ["=", "==", "===", "!="],
+        "answer": "=="
+    },
+    {
+        "question": "Which access modifier makes variables visible only within a class?",
+        "options": ["public", "protected", "private", "default"],
+        "answer": "private"
+    },
+    {
+        "question": "Which package contains Scanner class?",
+        "options": ["java.util", "java.io", "java.lang", "java.net"],
+        "answer": "java.util"
+    },
+    {
+        "question": "What is the default value of boolean in Java?",
+        "options": ["true", "false", "0", "null"],
+        "answer": "false"
+    },
+    {
+        "question": "Which loop is guaranteed to run at least once?",
+        "options": ["for", "while", "do-while", "foreach"],
+        "answer": "do-while"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions?",
+        "options": ["try", "catch", "throw", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which method converts string to integer?",
+        "options": ["Integer.parseInt()", "String.toInt()", "convert()", "int()"],
+        "answer": "Integer.parseInt()"
+    },
+    {
+        "question": "Which of these is not a Java keyword?",
+        "options": ["static", "void", "main", "private"],
+        "answer": "main"
+    },
+    {
+        "question": "Java is ____ typed language.",
+        "options": ["loosely", "strongly", "weakly", "dynamically"],
+        "answer": "strongly"
+    },
+    {
+        "question": "Which of the following is a superclass of every class in Java?",
+        "options": ["Object", "Class", "System", "Main"],
+        "answer": "Object"
+    },
+    {
+        "question": "What does the 'this' keyword refer to?",
+        "options": ["Current object", "Parent class", "Static variable", "Global variable"],
+        "answer": "Current object"
+    },
+    {
+        "question": "What is the output of 3 + 2 + \"1\"?",
+        "options": ["51", "6", "31", "321"],
+        "answer": "51"
+    },
+    {
+        "question": "Which of the following is not a loop in Java?",
+        "options": ["for", "repeat", "while", "do-while"],
+        "answer": "repeat"
+    },
+    {
+        "question": "Which of the following is used to create an object?",
+        "options": ["class", "new", "method", "void"],
+        "answer": "new"
+    },
+    {
+        "question": "Which keyword is used to stop a loop?",
+        "options": ["exit", "stop", "break", "end"],
+        "answer": "break"
+    }
+]

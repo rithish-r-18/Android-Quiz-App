@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "def", "define", "func"],
+        "answer": "def"
+    },
+    {
+        "question": "What is the output of: print(type([]))?",
+        "options": ["<class 'list'>", "<class 'dict'>", "<class 'tuple'>", "<class 'set'>"],
+        "answer": "<class 'list'>"
+    },
+    {
+        "question": "Which data type is immutable?",
+        "options": ["list", "set", "tuple", "dict"],
+        "answer": "tuple"
+    },
+    {
+        "question": "What symbol is used for comments in Python?",
+        "options": ["//", "#", "/* */", "--"],
+        "answer": "#"
+    },
+    {
+        "question": "What is the output of 2 ** 3?",
+        "options": ["6", "8", "9", "5"],
+        "answer": "8"
+    },
+    {
+        "question": "Which of these is a Python boolean value?",
+        "options": ["True", "TRUE", "Yes", "1"],
+        "answer": "True"
+    },
+    {
+        "question": "Which function is used to get input from the user?",
+        "options": ["input()", "get()", "scan()", "read()"],
+        "answer": "input()"
+    },
+    {
+        "question": "Which of the following is not a keyword in Python?",
+        "options": ["finally", "loop", "pass", "nonlocal"],
+        "answer": "loop"
+    },
+    {
+        "question": "Which operator is used for floor division?",
+        "options": ["/", "//", "%", "**"],
+        "answer": "//"
+    },
+    {
+        "question": "Which keyword is used for loop iteration?",
+        "options": ["if", "while", "repeat", "loop"],
+        "answer": "while"
+    },
+    {
+        "question": "How do you start a for loop in Python?",
+        "options": ["for i to n", "foreach i in range", "for i in range(n):", "loop i range(n)"],
+        "answer": "for i in range(n):"
+    },
+    {
+        "question": "Which module in Python supports regular expressions?",
+        "options": ["re", "regex", "match", "pattern"],
+        "answer": "re"
+    },
+    {
+        "question": "What is used to define a block of code in Python?",
+        "options": ["Braces {}", "Indentation", "Begin-End", "Brackets []"],
+        "answer": "Indentation"
+    },
+    {
+        "question": "Which function returns the length of a list?",
+        "options": ["count()", "length()", "len()", "size()"],
+        "answer": "len()"
+    },
+    {
+        "question": "What is the output of: bool('False')?",
+        "options": ["False", "True", "0", "Error"],
+        "answer": "True"
+    },
+    {
+        "question": "Which method is used to add an element to a list?",
+        "options": ["add()", "append()", "insert()", "extend()"],
+        "answer": "append()"
+    },
+    {
+        "question": "What is the result of 10 % 3 in Python?",
+        "options": ["1", "0", "3", "10"],
+        "answer": "1"
+    },
+    {
+        "question": "Which function can convert a string to an integer?",
+        "options": ["str()", "int()", "eval()", "char()"],
+        "answer": "int()"
+    },
+    {
+        "question": "What is the keyword to handle exceptions?",
+        "options": ["catch", "try", "handle", "trap"],
+        "answer": "try"
+    },
+    {
+        "question": "Which function is used to display output?",
+        "options": ["print()", "write()", "output()", "echo()"],
+        "answer": "print()"
+    }
+]

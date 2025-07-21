@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which SQL statement is used to extract data from a database?",
+        "options": ["GET", "OPEN", "SELECT", "EXTRACT"],
+        "answer": "SELECT"
+    },
+    {
+        "question": "Which clause is used to filter records?",
+        "options": ["WHERE", "FROM", "HAVING", "FILTER"],
+        "answer": "WHERE"
+    },
+    {
+        "question": "Which keyword is used to sort the result-set?",
+        "options": ["SORT", "ORDER", "ORDER BY", "SORT BY"],
+        "answer": "ORDER BY"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": ["Structured Question Language", "Strong Question Language", "Structured Query Language", "Sequential Query Language"],
+        "answer": "Structured Query Language"
+    },
+    {
+        "question": "Which function returns the number of records?",
+        "options": ["SUM()", "COUNT()", "TOTAL()", "ADD()"],
+        "answer": "COUNT()"
+    },
+    {
+        "question": "Which operator is used to test for NULL values?",
+        "options": ["= NULL", "IS NULL", "NULL", "IS"],
+        "answer": "IS NULL"
+    },
+    {
+        "question": "Which statement is used to remove a table?",
+        "options": ["DELETE TABLE", "REMOVE TABLE", "DROP TABLE", "ERASE TABLE"],
+        "answer": "DROP TABLE"
+    },
+    {
+        "question": "Which SQL command updates data in a table?",
+        "options": ["CHANGE", "UPDATE", "MODIFY", "SET"],
+        "answer": "UPDATE"
+    },
+    {
+        "question": "What keyword is used to remove duplicate rows?",
+        "options": ["DISTINCT", "UNIQUE", "ONLY", "SEPARATE"],
+        "answer": "DISTINCT"
+    },
+    {
+        "question": "What command is used to insert new data?",
+        "options": ["INSERT INTO", "ADD DATA", "NEW RECORD", "PUT INTO"],
+        "answer": "INSERT INTO"
+    },
+    {
+        "question": "Which SQL statement is used to create a table?",
+        "options": ["MAKE TABLE", "CREATE TABLE", "NEW TABLE", "BUILD TABLE"],
+        "answer": "CREATE TABLE"
+    },
+    {
+        "question": "Which function returns the average value?",
+        "options": ["SUM()", "MEAN()", "AVG()", "TOTAL()"],
+        "answer": "AVG()"
+    },
+    {
+        "question": "Which clause is used to group rows with same values?",
+        "options": ["ORDER BY", "GROUP BY", "SORT BY", "UNION"],
+        "answer": "GROUP BY"
+    },
+    {
+        "question": "Which keyword is used with GROUP BY to filter groups?",
+        "options": ["WHERE", "HAVING", "FILTER", "IF"],
+        "answer": "HAVING"
+    },
+    {
+        "question": "Which operator is used with wildcards?",
+        "options": ["=", "LIKE", "IN", "ANY"],
+        "answer": "LIKE"
+    },
+    {
+        "question": "What is the default sorting order of ORDER BY?",
+        "options": ["Descending", "Random", "Ascending", "None"],
+        "answer": "Ascending"
+    },
+    {
+        "question": "Which command deletes all rows from a table?",
+        "options": ["DELETE", "REMOVE", "TRUNCATE", "CLEAR"],
+        "answer": "TRUNCATE"
+    },
+    {
+        "question": "What does the BETWEEN operator do?",
+        "options": ["Filters records between two values", "Joins tables", "Sorts records", "Limits rows"],
+        "answer": "Filters records between two values"
+    },
+    {
+        "question": "Which clause combines rows from multiple tables?",
+        "options": ["GROUP BY", "JOIN", "MERGE", "APPEND"],
+        "answer": "JOIN"
+    },
+    {
+        "question": "What does the LIMIT clause do?",
+        "options": ["Skips rows", "Limits the number of rows returned", "Groups results", "Filters NULLs"],
+        "answer": "Limits the number of rows returned"
+    }
+]
