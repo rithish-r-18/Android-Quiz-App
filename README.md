@@ -17,7 +17,18 @@ A fully functional Android quiz app with features like:
 - 📤 Share results with friends
 
 ## 📷 Screenshots
-![Home Screen](1.jpg)
+<p align="center">
+  <img src="1.jpg" alt="Home Screen" width="250"/>
+  <img src="2.jpg" alt="Home Screen" width="250"/>
+  <img src="3.jpg" alt="Home Screen" width="250"/>
+  <img src="4.jpg" alt="Home Screen" width="250"/>
+  <br/>
+  <img src="5.jpg" alt="Home Screen" width="250"/>
+  <img src="6.jpg" alt="Home Screen" width="250"/>
+  <img src="7.jpg" alt="Home Screen" width="250"/>
+  <img src="8.jpg" alt="Home Screen" width="250"/>
+</p>
+
 
 ## 🛠 Tech Stack
 - Java
